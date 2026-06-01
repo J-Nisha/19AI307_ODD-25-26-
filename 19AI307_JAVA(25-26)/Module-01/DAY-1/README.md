@@ -1,16 +1,17 @@
 # Ex.No:1(A) INTRODUCTION TO JAVA PROGRAMMING, DATA TYPES, VARIABLES AND OPERATORS
 
 ## QUESTION:
+
 Lovely has just started learning Java and is very excited about how to display messages on the screen. Her first mission is to understand how different types of print statements work:
 
 System.out.print() → prints on the same line
 
 System.out.println() → prints and moves to the next line
 
-System.out.printf() → prints formatted outpu
-
+System.out.printf() → prints formatted output
 
 ## AIM:
+
 To write a Java program that demonstrates the use of variables, data types, operators, and different print statements (print, println, and printf).
 
 ## ALGORITHM :
@@ -25,18 +26,17 @@ To write a Java program that demonstrates the use of variables, data types, oper
 
 
 
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by:Nisha J 
-RegisterNumber:212223040133 
+Developed by: Nisha J
+RegisterNumber:  212223040133
 */
 ```
 
 ## Sourcecode.java:
+
 ```
 import java.util.*;
 public class Main
@@ -52,19 +52,17 @@ public class Main
         System.out.printf("Your favorite number is %.2f ",num);
     }
 }
+
 ```
 
 
 
 
 
-
-
 ## OUTPUT:
-<img width="766" height="385" alt="514251561-8ca3a2e4-e913-4c3f-a8bf-73827075ab57" src="https://github.com/user-attachments/assets/1897a3b8-59c9-4e5e-add1-6af6a0c9974c" />
 
-
-
+<img width="766" height="385" alt="Screenshot 2025-11-14 105812" src="https://github.com/user-attachments/assets/8ca3a2e4-e913-4c3f-a8bf-73827075ab57" />
 
 ## RESULT:
+
 Thus, the Java program demonstrating variables, data types, operators, and print statements was successfully executed.
