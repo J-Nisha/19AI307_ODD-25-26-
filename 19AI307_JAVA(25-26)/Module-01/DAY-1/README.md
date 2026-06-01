@@ -14,14 +14,16 @@ System.out.printf() → prints formatted outpu
 To write a Java program that demonstrates the use of variables, data types, operators, and different print statements (print, println, and printf).
 
 ## ALGORITHM :
-1.Start the program.
-2.Import the required package java.util.* (optional).
-3.Declare variables of different data types (int, float, char, String).
-4.Perform simple arithmetic operations using operators.
-5.Use System.out.print() to display output on the same line.
-6.Use System.out.println() to display output on the next line.
-7.Use System.out.printf() to print formatted output.
-8.End the program.
+1.	Start the program.
+2.	Import the required package java.util.* (optional).
+3.	Declare variables of different data types (int, float, char, String).
+4.	Perform simple arithmetic operations using operators.
+5.	Use System.out.print() to display output on the same line.
+6.	Use System.out.println() to display output on the next line.
+7.	Use System.out.printf() to print formatted output.
+8.	End the program.
+
+
 
 
 
